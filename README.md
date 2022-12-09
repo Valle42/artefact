@@ -4,7 +4,10 @@ This is the repo of the code from the box of my bachelor thesis.
 Libraries used are:\
 FastLED\
 Wire\
-SimpleSDAudio
+SimpleSDAudio: https://www.hackerspace-ffm.de/wiki/index.php?title=Datei:SimpleSDAudio_V1.03.zip
+
+
+Here you can see the connection points between sensor and arduino used in the code.
 
 | Sensor            | Pin On Sensor | Pin Connected to Arduino | 
 |-------------------|---------------|--------------------------|
@@ -18,10 +21,8 @@ SimpleSDAudio
 |                   | SDA           |  4                       | 
 | LM386             |               |                          | 
 |                   | IN            |  9                       | 
-|                   |               |                          | 
 | REED              |               |                          | 
 |                   | IN            | 2                        | 
-|                   |               |                          | 
 | REED              |               |                          | 
 |                   | IN            | 3                        | 
 | NeoPixel          |               |                          |
